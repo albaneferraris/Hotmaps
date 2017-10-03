@@ -1,0 +1,2 @@
+# Hotmaps
+Hotmaps mock-up
